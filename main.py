@@ -1,7 +1,5 @@
 from fastapi import FastAPI
 from pixai import PixaiAPI
-from fastapi import FastAPI
-from pixai import PixaiAPI
 from fastapi.responses import JSONResponse
 
 app = FastAPI()
